@@ -1,7 +1,7 @@
 # 🌪️ LexiTech — Worst-Case Life Event Contract Simulator (Module 03)
 ### Adversarial Crisis Stress-Testing Engine by Heidi Seckman
 
-🌐 **LexiTech Studio Headquarters:** https://github.io
+🌐 **LexiTech Studio Headquarters:** https://heidiseckman.github.io/LEXITECH/
 
 ## 🚀 Overview
 Most contracts are drafted assuming everything goes smoothly—until a sudden real-world emergency turns standard boilerplate into a devastating financial trap. **Module 03** stress-tests any private contract (residential/commercial leases, employment agreements, partnership deals, or service contracts) against worst-case life events to expose hidden liabilities before you sign.
